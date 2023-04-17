@@ -36,4 +36,4 @@
 
 </div>
 
-
+<img src="вассерман crop.gif" height="132"/>
