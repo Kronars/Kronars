@@ -37,3 +37,6 @@
 </div>
 
 <img src="вассерман crop.gif" height="132"/>
+
+_мимо прошедших стренжиров:_   
+![](https://visitor-badge.laobi.icu/badge?page_id=Kronars.Kronars)  
